@@ -30,10 +30,17 @@ Ing. Darwin Omar Alulema Flores
 
 **1.1 Objetivo General**
 
+Conocer y y aplicar las ecuaciones de Maxwel en el espacio libre y en los medios materiales, sus condiciones de contorno y las leyes de conservación asociadas.
 
 **1.2 Objetivos Específicos**
 
 - Analizar los capitulos 11 y 12 del libro para dar solucion a los problemas planteados en los mismos ,de esta manera mejorar el desempeño y agilidad de los temas tratados en estos capitulos
+
+- Saber determinar correctamente las propiedades básicas de las ondas electromagnéticas planas en medios materiales, tanto dieléctricos como conductores.
+
+- Comprender las transformaciones de los campos electromagnéticos en el contexto de la relatividad especial y dominar el uso de la formulación covariante.
+
+- Estudiar los fenómenos asociados con la radiación de una carga acelerada, así como las radiaciones dipolar eléctrica y magnética.
 
 # 2. MARCO TEORICO
 
@@ -54,4 +61,5 @@ Concluyo que los temas vistos en estos capítulos nos entregan las bases para co
 
 # 6. BIBLIOGRAFÍAS
 
+* Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
 
