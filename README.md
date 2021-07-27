@@ -35,3 +35,16 @@ Ing. Darwin Omar Alulema Flores
 
 
 # 2. MARCO TEORICO
+
+![image](https://github.com/Jhosu115/Tarea-6/blob/main/Electromagnetismo.png)
+
+# **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+
+# 4. VIDEO
+
+# 5. CONCLUSIONES
+
+# 6. BIBLIOGRAFÍAS
+
+
