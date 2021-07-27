@@ -4,7 +4,7 @@
 
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-AUTORES
+**AUTORES:**
 
 Aimacaña Cruz Alex Jhosue
 
@@ -12,11 +12,11 @@ Muñoz Pallo Ariel Santiago
 
 Núñez Paredes Diego Alexander
 
-NRC
+**NRC:**
   
 5416
 
-INGENIERO
+**INGENIERO:**
 
 Ing. Darwin Omar Alulema Flores
 
