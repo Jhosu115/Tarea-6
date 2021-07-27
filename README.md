@@ -33,6 +33,7 @@ Ing. Darwin Omar Alulema Flores
 
 **1.2 Objetivos Específicos**
 
+- Analizar los capitulos 11 y 12 del libro para dar solucion a los problemas planteados en los mismos ,de esta manera mejorar el desempeño y agilidad de los temas tratados en estos capitulos
 
 # 2. MARCO TEORICO
 
@@ -40,10 +41,14 @@ Ing. Darwin Omar Alulema Flores
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
+[Ejercicios Resueltos](https://github.com/Jhosu115/Tarea-6/blob/main/Ejercicios%20Tarea%20No.%206.pdf)
 
 # 4. VIDEO
 
 # 5. CONCLUSIONES
+
+Concluyo que los temas vistos en estos capítulos nos entregan las bases para continuar entendiendo como funciona y ademas lo mas importante como manipular un Circuito dándonos cuenta que la tierra cuenta con su propio Campo Magnético y como medir su Intensidad y ver sus Curvas Magnéticas
+
 
 # 6. BIBLIOGRAFÍAS
 
