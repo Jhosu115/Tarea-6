@@ -20,7 +20,7 @@ Núñez Paredes Diego Alexander
 
 Ing. Darwin Omar Alulema Flores
 
-# INFORME DE LA TAREA N°3
+# INFORME DE LA TAREA N°6
 
 # CAPITULO XI Y XII 
   
@@ -44,6 +44,8 @@ Ing. Darwin Omar Alulema Flores
 [Ejercicios Resueltos](https://github.com/Jhosu115/Tarea-6/blob/main/Ejercicios%20Tarea%20No.%206.pdf)
 
 # 4. VIDEO
+
+https://youtu.be/_XxKvB0gU64
 
 # 5. CONCLUSIONES
 
